@@ -7,11 +7,6 @@ Identified Problem
 
  To run LIRI, you will need Bash, Node, and npm.
 
-Then, type npm install to download the required packages.
-
-
-Open the key.js file to add your API keys for Twitter, Spotify, and OMDB.
-
 
 Demos - Spotify This Song
 Type node liri.js spotify-this-song "SONG NAME" to find the artist and album information.
