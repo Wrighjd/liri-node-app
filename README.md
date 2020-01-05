@@ -5,30 +5,12 @@ Identified Problem
   - This will allow the user a more simplified route to searching and receiving info for the specified sites.
   -simultaniously search for Bands, songs and movies. Being able to search for a band or movie and to be given their information which is interconnected accross multiple websites.
 
-Organization/ Search functionality
-  - Spotify
-    ~ Song Name
-    ~ Band Name
-    ~ Track Name
-  
-  - Bands in Town
-    ~ Band Name
-    ~ Band Members
-    ~ Cities (this will show bands currently playing in a specified city)
-  
-  - OMDB
-  ~ 
- 
-
  To run LIRI, you will need Bash, Node, and npm.
 
-In Bash, type git clone git@github.com:ijlee2/UT-Coding-Boot-Camp.git to download LIRI.
+Then, type npm install to download the required packages.
 
 
-Then, type cd UT-Coding-Boot-Camp/homework/hw8; npm install to download the required packages.
-
-
-Change the file name of keys_template.js to keys.js. Open this file to add your API keys for Twitter, Spotify, and OMDB.
+Open the key.js file to add your API keys for Twitter, Spotify, and OMDB.
 
 
 Demos - Spotify This Song
