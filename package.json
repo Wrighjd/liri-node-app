@@ -1,0 +1,28 @@
+{
+  "name": "liri-app",
+  "version": "1.0.0",
+  "description": "Multi search app",
+  "main": "keys.js",
+  "scripts": {
+    "test": "liri"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wrighjd/liri-node-app.git"
+  },
+  "keywords": [
+    "liri"
+  ],
+  "author": "JDW",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wrighjd/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/wrighjd/liri-node-app#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "node-spotify-api": "^1.1.1",
+    "os": "^0.1.1",
+    "request": "^2.88.0"
+  }
+}
